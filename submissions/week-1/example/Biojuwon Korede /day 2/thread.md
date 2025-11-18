@@ -33,6 +33,6 @@ For Example
 • Bored Ape Yacht Club (BAYC) — NFT collection on Ethereum (ERC-721) — membership utility + IP/licensing claims; trades via marketplaces, ownership moves via ERC-721 transfers. 
 • NBA Top Shot — Collectible moments on Flow (Dapper Labs) — Flow is architected for collectible video moments (different architecture than Ethereum), ownership changes on Flow’s ledger and via their marketplace. 
 • Art Blocks / generative art  On-chain/contract-driven NFTs on Ethereum  minting generates unique token metadata, ownership transfers via standard ERC-721 flows. 
-• OpenSea marketplace (infrastructure for transfers) — Cross-chain marketplace (mainly Ethereum, other chains supported) — facilitates listing, bidding, and safeTransferFrom to move NFTs between owners. OpenSea uses smart contracts to effect on-chain transfers. 
+• OpenSea marketplace (infrastructure for transfers)  Cross-chain marketplace (mainly Ethereum, other chains supported) — facilitates listing, bidding, and safeTransferFrom to move NFTs between owners. OpenSea uses smart contracts to effect on-chain transfers. 
 • Fungible tokens — USDC / DAI / ERC-20 examples — ERC-20 defines transfer/approve functions; ownership of fungible units is a ledger balance change (on Ethereum). Stablecoins (USDC/DAI) are ERC-20 tokens used for payments, collateral, and DeFi. 
 Solana SPL tokens (fungible & NFTs) — Solana uses SPL Token program for fungible tokens and token accounts; NFTs on Solana are usually SPL tokens with supply=1 + metadata account (Metaplex). Ownership changes via SPL token transfers.
